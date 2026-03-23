@@ -10,7 +10,7 @@
 This project was built to demonstrate proficiency in seamless Frontend-to-Backend data pipelines without relying on heavy bundlers, utilizing a pure CDN-based React architecture.
 
 ## 🚀 Live Deployment
-**[Access the Secure Vault Here]** *(Replace this text with your Netlify URL once deployed)*
+**[Access the Secure Vault Here]** https://warm-dusk-2443f3.netlify.app
 
 ## ⚙️ Core Architecture
 * **Frontend Engine:** React 18 (Injected via CDN for zero-dependency local execution).
