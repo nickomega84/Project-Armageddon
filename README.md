@@ -5,7 +5,7 @@
 ![Tech Stack](https://img.shields.io/badge/Tech-React_|_Supabase-red?style=for-the-badge)
 
 ## 📋 Mission Briefing
-**Project Armageddon** is a Full-Stack, single-page application (SPA) engineered to manage a classified roster of Multiverse targets. It allows commanders to review elite profiles, execute database injections to recruit them to a secure Vault, and purge assets when they are no longer needed.
+**Project Armageddon** is a Full-Stack, single-page application (SPA) engineered to manage a classified roster of multiversal targets. It allows commanders to review elite profiles, execute database injections to recruit them to a secure Vault, and purge assets when they are no longer needed.
 
 This project was built to demonstrate proficiency in seamless Frontend-to-Backend data pipelines without relying on heavy bundlers, utilizing a pure CDN-based React architecture.
 
